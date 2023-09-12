@@ -1,0 +1,13 @@
+C:\Users\wolfsum\source\repos\Sales_WPF\Sales_WPF\bin\Debug\Sales_WPF.exe.config
+C:\Users\wolfsum\source\repos\Sales_WPF\Sales_WPF\bin\Debug\Sales_WPF.exe
+C:\Users\wolfsum\source\repos\Sales_WPF\Sales_WPF\bin\Debug\Sales_WPF.pdb
+C:\Users\wolfsum\source\repos\Sales_WPF\Sales_WPF\obj\Debug\MainWindow.baml
+C:\Users\wolfsum\source\repos\Sales_WPF\Sales_WPF\obj\Debug\MainWindow.g.cs
+C:\Users\wolfsum\source\repos\Sales_WPF\Sales_WPF\obj\Debug\App.g.cs
+C:\Users\wolfsum\source\repos\Sales_WPF\Sales_WPF\obj\Debug\Sales_WPF_MarkupCompile.cache
+C:\Users\wolfsum\source\repos\Sales_WPF\Sales_WPF\obj\Debug\Sales_WPF.g.resources
+C:\Users\wolfsum\source\repos\Sales_WPF\Sales_WPF\obj\Debug\Sales_WPF.Properties.Resources.resources
+C:\Users\wolfsum\source\repos\Sales_WPF\Sales_WPF\obj\Debug\Sales_WPF.csproj.GenerateResource.cache
+C:\Users\wolfsum\source\repos\Sales_WPF\Sales_WPF\obj\Debug\Sales_WPF.csproj.CoreCompileInputs.cache
+C:\Users\wolfsum\source\repos\Sales_WPF\Sales_WPF\obj\Debug\Sales_WPF.exe
+C:\Users\wolfsum\source\repos\Sales_WPF\Sales_WPF\obj\Debug\Sales_WPF.pdb
